@@ -1,0 +1,15 @@
+Lawrence G. Roberts (December 21, 1937 – December 26, 2018) was an American computer scientist and engineer who played a key role in computer networking, particularly in the development of the ARPANET, a precursor to the Internet. Here are some key facts about Lawrence Roberts' life:
+
+Education and Career: Roberts received his engineering degree from the Massachusetts Institute of Technology (MIT) and his doctorate from Stanford University. He first worked at MIT Lincoln Laboratory, then joined DARPA (Department of Defense Joint Systems Office) in 1966.
+
+ARPANET: Roberts led the ARPANET project at DARPA, which began in the late 1960s. ARPANET was the forerunner of the Internet and the first network to connect different computers using the packet-switched communication protocol. Roberts stated that the goal was that "any computer anywhere in the world would be able to communicate with any other computer."
+
+TUDOR and Packet Switching: Roberts pioneered packet switching with a system called TUDOR (Terminal Use of Data Oriented Routing), which was a technology that broke data into smaller packets and sent them along various routes before reassembling them at their destination.
+
+Professional Career: Lawrence Roberts later worked at Bolt, Beranek and Newman (BBN), where he introduced additional network research and development. He also held additional corporate and consulting positions.
+
+Awards and Honors: Roberts has been recognized for his work and contributions with numerous awards and honors, including the Computing Immortality Award, the IEEE Internet Award, and the National Medal of Technology.
+
+The name of Lawrence Roberts is closely intertwined with the creation of ARPANET, which fundamentally contributed to the creation and development of the Internet. Through his work, his achievements in the field of computer networks and the Internet left a deep mark on the IT industry.
+
+Source: Wikipedia, AI

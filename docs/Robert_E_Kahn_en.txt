@@ -1,0 +1,15 @@
+Robert E. Kahn (born December 23, 1938) is an American computer scientist and engineer who worked with Vinton Cerf on the development of basic Internet protocols such as TCP/IP (Transmission Control Protocol/Internet Protocol). Kahn is credited with developing the first Internet concept, the TCP/IP protocol, and the foundations of the Internet. Here are some key facts about Robert E. Kahn's life:
+
+Education and Career: Kahn received his bachelor's degree in electrical engineering from Princeton University, followed by a doctorate in engineering and manufacturing sciences. He also spent several years at Bolt, Beranek and Newman (BBN) before moving to DARPA (Joint Systems Office of the Ministry of Defense).
+
+Internet Protocol and TCP/IP: Kahn began working on the TCP/IP protocol system with Vinton Cerf in 1972 with the release of DARPA. This protocol forms the basis of the Internet and enables communication between different computers and networks.
+
+First Internet Concept: Kahn and Cerf contributed to the first Internet concept, published in 1974 in the paper "A Protocol for Packet Network Intercommunication". This paper described the protocols for data communication between the ARPANET and other networks and served as the basis for the Internet.
+
+Post-DARPA Career: Kahn continued to play an important role in IT after DARPA. He worked at the Corporation for National Research Initiatives (CNRI), where he conducts further research in information technology and network research.
+
+Honors and Awards: Kahn has received numerous honors and awards for his work. In 2004, together with Vinton Cerf, he received the Computing Immortality Award, and in 2005 he was awarded the Order of Merit for the Sense of Freedom.
+
+Robert E. Kahn is credited with a fundamental part of the development of the Internet, and his work was fundamental to the creation and growth of the Internet.
+
+Source: Wikipedia, AI

@@ -1,0 +1,15 @@
+Robert E. Kahn (született: 1938. december 23.) amerikai informatikus és mérnök, aki együtt dolgozott Vinton Cerf-fel az internet alapvető protokolljainak, például a TCP/IP-nek (Transmission Control Protocol/Internet Protocol) kifejlesztésében. Kahn nevéhez fűződik az első internetes koncepció, a TCP/IP protokoll és az internet alapjainak kidolgozása. Itt van néhány kulcsfontosságú információ Robert E. Kahn életéről:
+
+Tanulmányok és Karrier: Kahn a Princeton Egyetemen szerezte meg a villamosmérnöki diplomáját, majd a Mérnöki és Gyártási Tudományokban doktorált. Több évet töltött a Bolt, Beranek and Newman (BBN) vállalatnál is, mielőtt a DARPA-hoz (Védelmi Minisztérium Közös Rendszerek Hivatala) került.
+
+Internet Protokoll és TCP/IP: Kahn 1972-ben kezdte el dolgozni a TCP/IP protokollrendszeren Vinton Cerf-fel együtt a DARPA finanszírozásával. Ez a protokollrendszer az internet alapját képezi, és lehetővé teszi a különböző számítógépek és hálózatok közötti kommunikációt.
+
+Első Internetes Koncepció: Kahn és Cerf közreműködtek az első internetes koncepció kialakításában, amelyet 1974-ben publikáltak a "A Protocol for Packet Network Intercommunication" című cikkben. Ez az írás az ARPANET és más hálózatok közötti adatkommunikáció protokolljait írta le, és az internet alapjául szolgált.
+
+Poszt-DARPA Karrier: Kahn a DARPA után is fontos szerepet játszott az informatika terén. Dolgozott a Corporation for National Research Initiatives (CNRI) nevű szervezetnél, ahol további kutatásokat folytatott az információ technológia és a hálózati kutatások terén.
+
+Kitüntetések és Díjak: Kahn számos kitüntetést és díjat kapott a munkájáért. 2004-ben Vinton Cerf-fel közösen megkapta a Számítástechnikai Halhatatlanság Díját, és 2005-ben a Szabadságérzetért érdemrenddel tüntették ki.
+
+Robert E. Kahn nevéhez fűződik az internet fejlesztésének egyik alapvető része, és munkássága alapvető fontosságú volt az internet létrehozásában és növekedésében.
+
+Forrás: Wikipédia, AI
