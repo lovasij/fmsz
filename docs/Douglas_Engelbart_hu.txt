@@ -1,0 +1,17 @@
+Douglas Engelbart (1925. január 30. – 2013. július 2.) amerikai mérnök és informatikus volt, aki kiemelkedő szerepet játszott az interaktív számítógépes interfészek és az ember-gép interakció terén. Az egyik legfontosabb hozzájárulása az egér kifejlesztése volt, amelyet ma már a számítógép használatának alapvető eszközeként ismerünk.
+
+Itt van néhány kulcsfontosságú információ Douglas Engelbart életéről:
+
+Számítógépes Egér: Engelbart a Stanford Research Institute (ma a SRI International) kutatóintézetnél dolgozott, ahol 1963-ban kifejlesztette az egér nevű eszközt, ami az interaktív számítógépes munkavégzés előfutára lett. Az egér mellett Engelbart más fontos technológiákat is bevezetett, például az "augmented human intelligence" (bővített emberi intelligencia) koncepcióját.
+
+A "Mother of All Demos": Engelbart nevéhez fűződik a történelem egyik legfontosabb technológiai bemutatója, a "Mother of All Demos" (A minden demó anyja). 1968-ban San Francisco-ban tartott bemutatón mutatta be az egér használatát, az interaktív számítógépes grafikát, a hipertextet, az online videokonferenciát és más innovatív technológiákat. Ez a bemutató jelentősen hozzájárult az informatikai forradalom kezdetéhez.
+
+Stanford Research Institute: Engelbart a Stanford Research Institute-nál (SRI) végzett fontos kutatásokat azáltal, hogy létrehozta a "Augmentation Research Center" (ARC) nevű csoportot, amelynek célja az ember és számítógép közötti hatékony együttműködés javítása volt.
+
+Xerox PARC: Később Engelbart csatlakozott az Xerox PARC-hoz (Xerox Palo Alto Research Center Incorporated), ahol további innovációkon dolgozott, és a környezet tervezésének alapelveit megfogalmazta.
+
+Kitüntetések és Elismerések: Engelbart számos kitüntetésben részesült, többek között a Nemzeti Technológiai Érdemrenddel, az Amerikai Mérnöki Akadémia életműdíjával és a Számítástechnika Halhatatlanság Díjával tüntették ki.
+
+Douglas Engelbart hozzájárult az informatika fejlődéséhez, és úttörő szerepet játszott azoknak a technológiáknak a kifejlesztésében, amelyek ma az informatikai eszközök mindennapi részei.
+
+Forrás: Wikipédia, AI
