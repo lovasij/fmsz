@@ -1,3 +1,7 @@
-Paul Barun Grodno (Lengyelország)-ban 1926. április 29.-én született egy Litván zsidó családban.
-Apjával, Anyával és két bátyával 1928 májusában kiköltözött az amerikai egyesült államokba.
-Tanulmányait a Drexel egytemen végezte 
+Paul Baran (1926-2011) lengyel származású amerikai mérnök és tudós volt, aki kiemelkedő szerepet játszott az adatátvitel és a hálózatelmélet fejlesztésében. Baran a második világháború után dolgozott az elektronikai iparban, és a RAND Corporation kutatóintézetnél vált ismertté.
+
+A legismertebb munkáját az "információs robbanás" korában végezte, amikor az Egyesült Államok kormánya aggodalmat fejezett ki a kommunikációs hálózatok ellenálló képessége miatt egy esetleges atomtámadás során. Baran egy 1964-ben közzétett jelentésében, "On Distributed Communications," részletesen leírta az ún. "packet switching" (csomagkapcsolás) koncepcióját, ami az internet és más modern hálózatok alapját képezi. A csomagkapcsolásnak köszönhetően az adatok kis csomagokra vannak bontva és különféle útvonalakon kerülnek átvitelre, ami nagyobb ellenállóságot és skálázhatóságot biztosít a hálózatoknak.
+
+Paul Baran élete során számos szabadalommal rendelkezett, és munkája alapvető fontosságú volt az internet kialakulásában. A csomagkapcsolás elvei kulcsfontosságúak voltak az ARPANET kialakításában, az első valódi internetes előfutárban, amely a katonai kommunikációt szolgálta.
+
+Baran 2011-ben hunyt el a spanyolországi Palo Alto-ban, Kaliforniában. Öröksége és munkája az internet fejlődésében és a modern kommunikációs hálózatok kialakulásában való kiemelkedő szerepével marad meg.
