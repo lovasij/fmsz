@@ -1,0 +1,15 @@
+Lawrence G. Roberts (1937. december 21. – 2018. december 26.) amerikai informatikus és mérnök volt, aki a számítógépes hálózatok terén játszott kulcsszerepet, különösen az ARPANET kifejlesztésében, amely az internet előfutára. Itt van néhány kulcsfontosságú információ Lawrence Roberts életéről:
+
+Tanulmányok és Karrier: Roberts a Massachusettsi Technológiai Egyetemen (MIT) szerezte meg mérnöki diplomáját, majd a Stanford Egyetemen doktorált. Először a MIT Lincoln Laboratory-nál dolgozott, majd 1966-ban csatlakozott a DARPA-hoz (Védelmi Minisztérium Közös Rendszerek Hivatala).
+
+ARPANET: Roberts a DARPA-nál vezette az ARPANET projektet, amelyet az 1960-as évek végén kezdtek el. Az ARPANET volt az internet előfutára, és az első hálózat, amely a különböző számítógépeket kapcsolta össze a csomagkapcsolású kommunikációs protokoll segítségével. Roberts kijelentette, hogy a cél az volt, hogy "a világ minden tájáról bármelyik számítógép képes legyen kommunikálni bármely másikkal."
+
+TUDOR és Packet Switching: Roberts a TUDOR (Terminal Use of Data Oriented Routing) nevű rendszerrel kezdte el a csomagkapcsolást, ami egy technológia volt, amely az adatokat kisebb csomagokra bontotta, és azokat különféle útvonalakon küldte el, mielőtt azokat a célhelyre összerakta volna.
+
+Szakmai Pályafutás: Lawrence Roberts később az Bolt, Beranek and Newman (BBN) vállalatnál dolgozott, ahol további hálózati kutatásokat és fejlesztéseket vezetett be. További vállalati és tanácsadói pozíciókat is betöltött.
+
+Díjak és Kitüntetések: Roberts munkájáért és hozzájárulásáért számos díjjal és kitüntetéssel ismerték el, beleértve a Számítástechnika Halhatatlanság Díját, az IEEE Internet-díjat és a Nemzeti Technológiai Érdemrendet.
+
+Lawrence Roberts neve szorosan összefonódik az ARPANET kialakításával, amely alapvetően hozzájárult az internet létrejöttéhez és fejlődéséhez. Munkássága révén a számítógépes hálózatok és az internet terén elért eredményei mély nyomot hagytak az informatikai iparágban.
+
+Forrás: Wikipédia, AI

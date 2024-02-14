@@ -1,0 +1,17 @@
+J.C.R. Licklider, or Joseph Carl Robnett Licklider (March 11, 1915 – June 26, 1990) was an American psychologist and computer scientist who played a key role in the field of computer science and the development of the concept of interactive computers. His name is closely associated with the development of ARPANET, the predecessor of the Internet, and innovations in the field of interactive computers. Here is some key information from J.C.R. About Licklider's life:
+
+Education and Career: Licklider studied psychology at the University of Washington and earned his doctorate at the University of Rochester. He also worked at AT&T Bell Labs before joining Bolt, Beranek and Newman (BBN) in 1962.
+
+The concept of the "Intergalactic Computer Network": Licklider became famous with the concept of the "Intergalactic Computer Network". He envisioned a computer network that would allow people to share information easily and efficiently.
+
+ARPANET and the Internet: Licklider worked at DARPA (Department of Defense Joint Systems Office) where he supported the development of ARPANET. Licklider saw the potential of computer-to-computer communication and collaboration, which contributed to the development of the Internet.
+
+The "Science of Interconnected Computers" article: In 1968, Licklider published his famous article in which he used the term "Science of Interconnected Computers" for the first time. In this article, he envisioned the possibilities of interactive computers, virtual reality, and online information delivery.
+
+Promotion of "Time-sharing" systems: Licklider contributed to the development of "time-sharing" systems that allowed multiple users to use the same computer at the same time. This increased interactivity and more efficient use of IT resources.
+
+Later Career: In 1973, Licklider became the director of the Institute for Computer Science and Technology, and later the head of ARPA's Informatics and Control Technology Program.
+
+J.C.R. Licklider's work and visions fundamentally contributed to the development of information technology and the Internet, and made the concept of interactive computers possible. His legacy left a deep mark in the field of information technology
+
+Source: Wikipedia, AI

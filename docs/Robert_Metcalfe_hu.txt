@@ -1,0 +1,17 @@
+Robert Melancton Metcalfe (született: 1946. április 7.) amerikai informatikus, aki kiemelkedő szerepet játszott az Ethernet technológia kifejlesztésében és népszerűsítésében. Az Ethernet a számítógépek hálózatokon keresztüli összekapcsolását teszi lehetővé, és az internet fejlesztésének egyik alapvető építőeleme. Itt van néhány kulcsfontosságú információ Robert Metcalfe életéről:
+
+Tanulmányok és Karrier: Metcalfe a MIT-n tanult elektromos mérnök szakon, majd doktori fokozatát a Harvard Egyetemen szerezte. Karrierjét a Xerox PARC-nál (Xerox Palo Alto Research Center) kezdte, ahol olyan kollégákkal dolgozott együtt, mint Alan Kay és Vinton Cerf.
+
+Ethernet Kifejlesztése: Metcalfe a Xerox PARC-nál dolgozása során fejlesztette ki az Ethernet elnevezésű hálózati protokollt, amely lehetővé teszi a számítógépek közötti adatátvitelt. Az Ethernet technológia koncepcióját Metcalfe 1973-ban publikálta.
+
+3Com Corporation: Metcalfe távozott a Xerox PARC-tól, és 1979-ben alapította meg a 3Com Corporation-t, egy számítógépes hálózati termékeket gyártó céget. A 3Com a világ egyik vezető hálózati vállalatává vált.
+
+IEEE 802.3 és Standardizáció: Metcalfe és csapata részt vett az Ethernet szabványosításában, és a szabványt az IEEE 802.3 néven ismerték el. Az IEEE 802.3-as szabvány az Ethernet protokoll alapját képezi, és a számítógépes hálózatokban széles körben elterjedt.
+
+Megbízatások és Díjak: Metcalfe többek között az Amerikai Mérnöki Akadémia tagja, valamint a Nemzeti Műszaki Akadémia és a Számítástechnika Halhatatlanság Díj birtokosa. Emellett a Hálózati Világbajnokság (NetWorld+Interop) díszvendége és a kongresszus elnöke is volt.
+
+Újságírói Karrier: Később Metcalfe újságíróként és technológiai elemzőként ismertté vált. Több híres technológiai magazinban rendszeresen publikált, és aktívan részt vett az informatikai iparág eseményeinek követésében és elemzésében.
+
+Robert Metcalfe neve szorosan összefonódik az Ethernet technológiájával, amelynek fejlesztése és népszerűsítése alapvető volt a számítógépes hálózatok fejlődésében és a modern internet kialakulásában.
+
+Forrás: Wikipédia, AI
