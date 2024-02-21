@@ -14,7 +14,7 @@ a.hover, a.active{
     border: solid 1px white;
 }
 td{
-
+    margin: auto;
 }
 .doboz{
     background-color: white;
