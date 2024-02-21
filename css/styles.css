@@ -1,8 +1,18 @@
 body{
-    background-color: gray;
+    background-color: whitesmoke;
 }
 .kep-tudos{
     width: 30px;
     height: 20px;
     margin: 2px;
 }
+.kep-fejlec{
+    margin: 2 auto;
+    border: solid 2px white;
+}
+a.hover, a.active{
+    border: solid 1px white;
+}
+
+
+
