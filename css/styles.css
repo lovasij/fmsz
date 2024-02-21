@@ -7,9 +7,9 @@ body{
     margin: 2px;
 }
 .kep-fejlec{
-    margin: 1px auto;
+    margin: auto;
     border: solid 2px white;
-    width: 59%;
+    width: 95%;
 }
 a.hover, a.active{
     border: solid 1px white;
