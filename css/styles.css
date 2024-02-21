@@ -24,7 +24,10 @@ td{
     margin: auto;
     border: solid 3px 10px darkslategray;
 }
-.zaszlok{
+.zaszlo-hu{
+    float: right;
+}
+.zaszlo-en{
     float: right;
 }
 
