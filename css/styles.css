@@ -13,6 +13,13 @@ body{
 a.hover, a.active{
     border: solid 1px white;
 }
+td{
 
-
+}
+.doboz{
+    background-color: white;
+    width: 60%;
+    height: 90%;
+    margin: auto;
+}
 
