@@ -1,5 +1,5 @@
 body{
-    background-color: whitesmoke;
+    background-color: ffffff;
 }
 .kep-tudos{
     width: 200px;
@@ -27,8 +27,14 @@ td {
 }
 .zaszlo {
     float: right;
+    display: block;
 }
 .zaszlo_en {
     float: right;
+    clear: both;
+    display: block;
+}
+.lathatatlan-zaszlo {
+    float: left;
     clear: both;
 }
