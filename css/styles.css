@@ -34,3 +34,7 @@ td {
 .zaszlo {
     float: right;
 }
+.zaszlo_en {
+    float: right;
+    clear: both;
+}
