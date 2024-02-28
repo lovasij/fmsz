@@ -16,13 +16,6 @@ table{
     background-color: lightgray;
     width: 1000px;
 }
-.doboz{
-    background-color: white;
-    width: 70%;
-    height: 90%;
-    margin: auto;
-    border: solid 00000 darkslategray;
-}
 
 .kozep {
     text-align: center;
