@@ -7,17 +7,14 @@ body{
     margin: 5px;
 
 }
-.kep-fejlec{
-    margin: auto;
-    border: solid 1px black;
-    width: 95%;
-}
-
 a.hover, a.active{
-    border: solid 1px white;
+    border: solid 10px lime;
 }
 table{
-    margin: auto;
+    margin: 0 auto;
+    border: 40px #576398 solid;
+    background-color: lightgray;
+    width: 1000px;
 }
 .doboz{
     background-color: white;
@@ -26,10 +23,14 @@ table{
     margin: auto;
     border: solid 00000 darkslategray;
 }
-.zaszlo-hu{
-    float: right;
-}
-.zaszlo-en{
-    float: right;
-}
 
+.kozep {
+    text-align: center;
+}
+td {
+    margin: 0;
+    text-align: center;
+}
+.zaszlo {
+    float: right;
+}
