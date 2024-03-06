@@ -1,5 +1,5 @@
 body{
-    background-color: #ffffff;
+    background-color: #fff;
 }
 .kep-tudos{
     width: 200px;
@@ -7,13 +7,16 @@ body{
     margin: 5px;
 
 }
+.kep-talalmany {
+    width: 600px;
+}
 a.hover, a.active{
-    border: solid 10px lime;
+    border: solid 10px black;
 }
 table{
     margin: 0 auto;
-    border: 40px #576398 solid;
-    background-color: lightgray;
+    border: 40px #5c6b7b solid;
+    background-color: #fff;
     width: 1000px;
     
 }
