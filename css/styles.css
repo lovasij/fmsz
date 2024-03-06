@@ -7,6 +7,9 @@ body{
     margin: 5px;
 
 }
+.kep-talalmany {
+    width: 600px;
+}
 a.hover, a.active{
     border: solid 10px black;
 }
